@@ -8,7 +8,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="270" alt="coding-time" src="code.gif">
+    <img align="left" height="300" alt="coding-time" src="code.gif">
     <h1 align="center">Tecnologias Usadas</h1>
 
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@
   <img align="center" alt="bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img align="center" alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
    </div>
-   <br>
+  
  
   
   <h1 align="center">Redes Sociais</h1>
